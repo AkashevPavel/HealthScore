@@ -1,0 +1,14 @@
+<resources>
+    <string name="full_name">ФИО</string>
+    <string name="glucose_level">Уровень глюкозы</string>
+    <string name="cholesterol_level">Уровень холестерина</string>
+    <string name="weight">Вес</string>
+    <string name="height">Рост</string>
+    <string name="age">Возраст</string>
+    <string name="medical_exam">Медицинский осмотр</string>
+    <string name="observation">Диспансерное наблюдение</string>
+    <string name="gto">Баллы за ГТО</string>
+    <string name="vaccination">Иммунопрофилактика</string>
+    <string name="first_aid_status">Статус первопощника</string>
+    <string name="calculate">Подсчитать баллы</string>
+</resources>
